@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  maxgroup:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-18T16:17:08.519704+08:00"
+    description: A Helm chart for Kubernetes
+    digest: d4d5da37c7dea4f7b8e3a9e3068710be022fcbec5b80f18849bcd296bc733cf2
+    name: maxgroup
+    urls:
+    - https://github.com/spotmax-helm/maxgroup/maxgroup-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-18T16:17:08.518256+08:00"
